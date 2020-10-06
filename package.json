@@ -27,8 +27,5 @@
   "homepage": "https://github.com/mohssineAboutaj/morocco-cities#readme",
   "devDependencies": {
     "write-json": "^3.0.1"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@mohssineaboutaj"
   }
 }
