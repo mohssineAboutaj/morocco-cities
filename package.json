@@ -1,0 +1,31 @@
+{
+  "name": "morocco-cities",
+  "version": "1.0.0",
+  "description": "A list of all cities in morocco with it region",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohssineAboutaj/morocco-cities.git"
+  },
+  "keywords": [
+    "morocco",
+    "cities",
+    "cities list",
+    "morocco cities list",
+    "moroccan cities",
+    "json",
+    "cities.json"
+  ],
+  "author": "Mohssine Aboutaj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohssineAboutaj/morocco-cities/issues"
+  },
+  "homepage": "https://github.com/mohssineAboutaj/morocco-cities#readme",
+  "devDependencies": {
+    "write-json": "^3.0.1"
+  }
+}
