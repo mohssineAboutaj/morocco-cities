@@ -1,6 +1,6 @@
 {
   "name": "morocco-cities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A list of all cities in morocco with it region",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,8 @@
   "homepage": "https://github.com/mohssineAboutaj/morocco-cities#readme",
   "devDependencies": {
     "write-json": "^3.0.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@mohssineaboutaj"
   }
 }

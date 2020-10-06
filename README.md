@@ -36,12 +36,12 @@ it's will return an array of objects like this
 ```json
 [
   {
-    id: 1,
-    region_number: 6,
-    name: "Aïn Harrouda",
-    region_name: "Casablanca-Settat",
-  },
-];
+    "id": 1,
+    "region_number": 6,
+    "name": "Aïn Harrouda",
+    "region_name": "Casablanca-Settat"
+  }
+]
 ```
 
 ### For regions
@@ -55,12 +55,12 @@ it's will return an array of objects like this
 ```json
 [
   {
-    id: 12,
-    cities_count: 2,
-    cities_list: ["Awsard", "Oued-Eddahab"],
-    name: "Dakhla-Oued Ed Dahab",
-  },
-];
+    "id": 12,
+    "cities_count": 2,
+    "cities_list": ["Awsard", "Oued-Eddahab"],
+    "name": "Dakhla-Oued Ed Dahab"
+  }
+]
 ```
 
 ### For cities count & regions count
