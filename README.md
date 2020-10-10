@@ -36,13 +36,15 @@ it's will return an array of objects like this
 ```json
 [
   {
-    "id": 1,
-    "region_number": 6,
-    "name": "Aïn Harrouda",
-    "region_name": "Casablanca-Settat"
+    "id": 102,
+    "region_number": 7,
+    "name": "Marrakech",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_80f346f3-7177-44bd-a79c-5a9235d65ea1"
   }
 ]
 ```
+**Note**: the `uniq_id` property is not constant, that mean it's will changing on every version
 
 ### For regions
 
@@ -75,7 +77,7 @@ const { citisCount, regionsCount } = require("morocco-cities");
 
 ## Thanks for
 
-I want to say Thanks for **Alaouy** because i'm using [his repo data](https://github.com/alaouy/sql-moroccan-cities)
+I want to say Thanks for **Alaouy** because i'm using [his repository data](https://github.com/alaouy/sql-moroccan-cities)
 
 ## License
 

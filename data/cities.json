@@ -3,2364 +3,2751 @@
     "id": 1,
     "region_number": 6,
     "name": "Aïn Harrouda",
-    "region_name": "Casablanca-Settat"
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_5a368220-7c0d-4669-bf5e-b312d98d4140"
   },
   {
     "id": 2,
     "region_number": 6,
     "name": "Ben Yakhlef",
-    "region_name": "Casablanca-Settat"
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_e53ef8c9-9bb5-4481-9e09-eb3f31fe7ee4"
   },
   {
     "id": 3,
     "region_number": 6,
     "name": "Bouskoura",
-    "region_name": "Casablanca-Settat"
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_b1151b5e-f2be-4e29-a70c-f8d9d1daffce"
   },
   {
     "id": 4,
     "region_number": 6,
     "name": "Casablanca",
-    "region_name": "Casablanca-Settat"
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_6e67f28b-ddfd-4861-ae60-1c47c0288486"
   },
   {
     "id": 5,
     "region_number": 6,
     "name": "Médiouna",
-    "region_name": "Casablanca-Settat"
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_8eff7e16-322b-4161-a5f2-c0532acc2db6"
   },
   {
     "id": 6,
     "region_number": 6,
     "name": "Mohammadia",
-    "region_name": "Casablanca-Settat"
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_f09d6296-bbce-4145-b5cf-cc803e4b36c0"
   },
   {
     "id": 7,
     "region_number": 6,
     "name": "Tit Mellil",
-    "region_name": "Casablanca-Settat"
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_b7673c76-5ddb-4139-872a-8ed948a7a155"
   },
   {
     "id": 8,
-    "region_number": 6,
-    "name": "Ben Yakhlef",
-    "region_name": "Casablanca-Settat"
+    "region_number": 5,
+    "name": "Bejaâd",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_03f7ceb7-7690-4e79-8714-e472a1ed9aac"
   },
   {
     "id": 9,
-    "region_number": 5,
-    "name": "Bejaâd",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 6,
+    "name": "Ben Ahmed",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_d295e8f5-24ca-410b-8d80-ca56299132b5"
   },
   {
     "id": 10,
     "region_number": 6,
-    "name": "Ben Ahmed",
-    "region_name": "Casablanca-Settat"
+    "name": "Benslimane",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_ad1291de-554c-4f88-8ae8-dd7b26c93ee4"
   },
   {
     "id": 11,
     "region_number": 6,
-    "name": "Benslimane",
-    "region_name": "Casablanca-Settat"
+    "name": "Berrechid",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_4f4b352b-4d80-4fa2-ae60-41cba21086da"
   },
   {
     "id": 12,
-    "region_number": 6,
-    "name": "Berrechid",
-    "region_name": "Casablanca-Settat"
+    "region_number": 5,
+    "name": "Boujniba",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_bae49530-6a45-4a78-b938-74d6167a3e04"
   },
   {
     "id": 13,
     "region_number": 5,
-    "name": "Boujniba",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Boulanouare",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_fc90fd09-9ed7-451f-97b0-395cf1b6738d"
   },
   {
     "id": 14,
-    "region_number": 5,
-    "name": "Boulanouare",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 6,
+    "name": "Bouznika",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_6335979d-6578-4e17-84fe-a540feb3ad9e"
   },
   {
     "id": 15,
     "region_number": 6,
-    "name": "Bouznika",
-    "region_name": "Casablanca-Settat"
+    "name": "Deroua",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_1030b697-f0b9-40be-9480-a17ac3ad8a28"
   },
   {
     "id": 16,
     "region_number": 6,
-    "name": "Deroua",
-    "region_name": "Casablanca-Settat"
+    "name": "El Borouj",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_f253a877-9299-4389-88ed-44f6d57b510e"
   },
   {
     "id": 17,
     "region_number": 6,
-    "name": "El Borouj",
-    "region_name": "Casablanca-Settat"
+    "name": "El Gara",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_1326c49f-fe58-4d72-9887-6bcb1809e4a5"
   },
   {
     "id": 18,
     "region_number": 6,
-    "name": "El Gara",
-    "region_name": "Casablanca-Settat"
+    "name": "Guisser",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_f6614907-96e3-4aa9-b3d8-fabe71c3c440"
   },
   {
     "id": 19,
-    "region_number": 6,
-    "name": "Guisser",
-    "region_name": "Casablanca-Settat"
+    "region_number": 5,
+    "name": "Hattane",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_ebdfaa89-253f-4337-b079-c7c3d4c7fdb7"
   },
   {
     "id": 20,
     "region_number": 5,
-    "name": "Hattane",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Khouribga",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_2308f53e-ed56-415c-84dc-0a5ce347570b"
   },
   {
     "id": 21,
-    "region_number": 5,
-    "name": "Khouribga",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 6,
+    "name": "Loulad",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_27a7cddc-884e-4bbe-918c-c1e2f7ebffb4"
   },
   {
     "id": 22,
-    "region_number": 6,
-    "name": "Loulad",
-    "region_name": "Casablanca-Settat"
+    "region_number": 5,
+    "name": "Oued Zem",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_c1e66d6c-5b70-4979-b4a5-a56efbfee246"
   },
   {
     "id": 23,
-    "region_number": 5,
-    "name": "Oued Zem",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 6,
+    "name": "Oulad Abbou",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_92b4db2e-7a4c-4dd0-b785-88723dbd9cf2"
   },
   {
     "id": 24,
     "region_number": 6,
-    "name": "Oulad Abbou",
-    "region_name": "Casablanca-Settat"
+    "name": "Oulad H'Riz Sahel",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_57672234-4e0d-4a8e-9398-1e3531cc3d0c"
   },
   {
     "id": 25,
     "region_number": 6,
-    "name": "Oulad H'Riz Sahel",
-    "region_name": "Casablanca-Settat"
+    "name": "Oulad M'rah",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_ffe5a63e-0d84-4930-8130-e2b51a90595c"
   },
   {
     "id": 26,
     "region_number": 6,
-    "name": "Oulad M'rah",
-    "region_name": "Casablanca-Settat"
+    "name": "Oulad Saïd",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_89adb4bc-a682-4464-9723-d1a2cb9954d4"
   },
   {
     "id": 27,
     "region_number": 6,
-    "name": "Oulad Saïd",
-    "region_name": "Casablanca-Settat"
+    "name": "Oulad Sidi Ben Daoud",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_c11f576b-4882-48f0-8bea-d75a090f379d"
   },
   {
     "id": 28,
     "region_number": 6,
-    "name": "Oulad Sidi Ben Daoud",
-    "region_name": "Casablanca-Settat"
+    "name": "Ras El Aïn",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_af82483a-478a-4459-9e06-3d231f4f2008"
   },
   {
     "id": 29,
     "region_number": 6,
-    "name": "Ras El Aïn",
-    "region_name": "Casablanca-Settat"
+    "name": "Settat",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_c473caae-4e51-4a9c-b86d-3956ba66dd28"
   },
   {
     "id": 30,
     "region_number": 6,
-    "name": "Settat",
-    "region_name": "Casablanca-Settat"
+    "name": "Sidi Rahhal Chataï",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_b8a256b9-eea5-4dc1-9a9a-bbc7cb06e1f2"
   },
   {
     "id": 31,
     "region_number": 6,
-    "name": "Sidi Rahhal Chataï",
-    "region_name": "Casablanca-Settat"
+    "name": "Soualem",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_1ad757f7-f6e5-4bf1-b3f1-dab6092f4225"
   },
   {
     "id": 32,
     "region_number": 6,
-    "name": "Soualem",
-    "region_name": "Casablanca-Settat"
+    "name": "Azemmour",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_92769c22-156d-469b-990c-6112aa616e1f"
   },
   {
     "id": 33,
     "region_number": 6,
-    "name": "Azemmour",
-    "region_name": "Casablanca-Settat"
+    "name": "Bir Jdid",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_954731f3-0f4c-4580-b376-6a3a7b1eed20"
   },
   {
     "id": 34,
-    "region_number": 6,
-    "name": "Bir Jdid",
-    "region_name": "Casablanca-Settat"
+    "region_number": 7,
+    "name": "Bouguedra",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_5609b96b-bfa9-4137-9529-2258af513921"
   },
   {
     "id": 35,
     "region_number": 7,
-    "name": "Bouguedra",
-    "region_name": "Marrakech-Safi"
+    "name": "Echemmaia",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_d3d84800-ac1c-4d96-a374-8bb8e1307b8a"
   },
   {
     "id": 36,
-    "region_number": 7,
-    "name": "Echemmaia",
-    "region_name": "Marrakech-Safi"
+    "region_number": 6,
+    "name": "El Jadida",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_291c15ce-7974-40bb-b2bb-3701e3787805"
   },
   {
     "id": 37,
-    "region_number": 6,
-    "name": "El Jadida",
-    "region_name": "Casablanca-Settat"
+    "region_number": 7,
+    "name": "Hrara",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_e1709384-7947-49f9-84d8-e2cff5b8cd7b"
   },
   {
     "id": 38,
     "region_number": 7,
-    "name": "Hrara",
-    "region_name": "Marrakech-Safi"
+    "name": "Ighoud",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_8e1522e7-ff9c-43a9-9b1b-71b1ff295e23"
   },
   {
     "id": 39,
     "region_number": 7,
-    "name": "Ighoud",
-    "region_name": "Marrakech-Safi"
+    "name": "Jamâat Shaim",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_1c1dba1e-6c02-4810-af1e-0819cdf2ec49"
   },
   {
     "id": 40,
-    "region_number": 7,
-    "name": "Jamâat Shaim",
-    "region_name": "Marrakech-Safi"
+    "region_number": 6,
+    "name": "Jorf Lasfar",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_71228d75-a9d4-41e6-8f00-8a64e7191158"
   },
   {
     "id": 41,
     "region_number": 6,
-    "name": "Jorf Lasfar",
-    "region_name": "Casablanca-Settat"
+    "name": "Khemis Zemamra",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_a3809ad1-d83b-4e69-a3b5-0d0ee3bc931d"
   },
   {
     "id": 42,
     "region_number": 6,
-    "name": "Khemis Zemamra",
-    "region_name": "Casablanca-Settat"
+    "name": "Laaounate",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_a778f0ae-e8ff-4c0b-8b11-16a268bfa4a7"
   },
   {
     "id": 43,
     "region_number": 6,
-    "name": "Laaounate",
-    "region_name": "Casablanca-Settat"
+    "name": "Moulay Abdallah",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_9ea670a9-72c4-48ae-bf77-95a9801eb2e4"
   },
   {
     "id": 44,
     "region_number": 6,
-    "name": "Moulay Abdallah",
-    "region_name": "Casablanca-Settat"
+    "name": "Oualidia",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_ce424b3b-e97a-4f31-99ba-d26130eb0c57"
   },
   {
     "id": 45,
     "region_number": 6,
-    "name": "Oualidia",
-    "region_name": "Casablanca-Settat"
+    "name": "Oulad Amrane",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_ab4aa0e7-d094-4ec2-a2fd-99ba261f20d7"
   },
   {
     "id": 46,
     "region_number": 6,
-    "name": "Oulad Amrane",
-    "region_name": "Casablanca-Settat"
+    "name": "Oulad Frej",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_49bb99ba-689d-48ac-bd3a-01728b9f89d4"
   },
   {
     "id": 47,
     "region_number": 6,
-    "name": "Oulad Frej",
-    "region_name": "Casablanca-Settat"
+    "name": "Oulad Ghadbane",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_3ba6e34a-88d5-4c28-bfa6-9b689f1cfc9c"
   },
   {
     "id": 48,
-    "region_number": 6,
-    "name": "Oulad Ghadbane",
-    "region_name": "Casablanca-Settat"
+    "region_number": 7,
+    "name": "Safi",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_d710c72a-c23c-4b5b-b447-57a41f1f1905"
   },
   {
     "id": 49,
-    "region_number": 7,
-    "name": "Safi",
-    "region_name": "Marrakech-Safi"
+    "region_number": 6,
+    "name": "Sebt El Maârif",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_8ae0e643-c815-47f1-a0f7-631aeeae8342"
   },
   {
     "id": 50,
-    "region_number": 6,
-    "name": "Sebt El Maârif",
-    "region_name": "Casablanca-Settat"
+    "region_number": 7,
+    "name": "Sebt Gzoula",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_777e3341-a186-4ded-9dea-213aef842f23"
   },
   {
     "id": 51,
     "region_number": 7,
-    "name": "Sebt Gzoula",
-    "region_name": "Marrakech-Safi"
+    "name": "Sidi Ahmed",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_511ff361-9311-4790-a45e-ae75e77c1894"
   },
   {
     "id": 52,
-    "region_number": 7,
-    "name": "Sidi Ahmed",
-    "region_name": "Marrakech-Safi"
+    "region_number": 6,
+    "name": "Sidi Ali Ban Hamdouche",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_051756bb-d77c-454c-9af9-b991840f0539"
   },
   {
     "id": 53,
     "region_number": 6,
-    "name": "Sidi Ali Ban Hamdouche",
-    "region_name": "Casablanca-Settat"
+    "name": "Sidi Bennour",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_61b355c9-7249-47c1-a955-fbae0325e84c"
   },
   {
     "id": 54,
     "region_number": 6,
-    "name": "Sidi Bennour",
-    "region_name": "Casablanca-Settat"
+    "name": "Sidi Bouzid",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_772ffad8-99f9-477e-99ab-8da92c3d14d0"
   },
   {
     "id": 55,
     "region_number": 6,
-    "name": "Sidi Bouzid",
-    "region_name": "Casablanca-Settat"
+    "name": "Sidi Smaïl",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_f12af62a-fc92-4cd0-b0d5-25a3d86da9c9"
   },
   {
     "id": 56,
-    "region_number": 6,
-    "name": "Sidi Smaïl",
-    "region_name": "Casablanca-Settat"
+    "region_number": 7,
+    "name": "Youssoufia",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_45d28b40-6f91-439c-8b9f-d41f3723878f"
   },
   {
     "id": 57,
-    "region_number": 7,
-    "name": "Youssoufia",
-    "region_name": "Marrakech-Safi"
+    "region_number": 3,
+    "name": "Fès",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_2d77faba-7d3d-4cdb-a7df-1c4a786fd886"
   },
   {
     "id": 58,
     "region_number": 3,
-    "name": "Fès",
-    "region_name": "Fès-Meknès"
+    "name": "Aïn Cheggag",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_337308e0-34d8-4719-b6bc-13c74ba300a3"
   },
   {
     "id": 59,
     "region_number": 3,
-    "name": "Aïn Cheggag",
-    "region_name": "Fès-Meknès"
+    "name": "Bhalil",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_888ddb2e-fb8c-46d0-a8f2-1ab6f7396b35"
   },
   {
     "id": 60,
     "region_number": 3,
-    "name": "Bhalil",
-    "region_name": "Fès-Meknès"
+    "name": "Boulemane",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_c0bfece2-930a-43ae-9776-9a3b1790ab95"
   },
   {
     "id": 61,
     "region_number": 3,
-    "name": "Boulemane",
-    "region_name": "Fès-Meknès"
+    "name": "El Menzel",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_e814985a-9c5d-4d9f-9af3-9e86e9e0ecb5"
   },
   {
     "id": 62,
     "region_number": 3,
-    "name": "El Menzel",
-    "region_name": "Fès-Meknès"
+    "name": "Guigou",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_59946a1d-793b-44a2-9f22-4b0b78551071"
   },
   {
     "id": 63,
     "region_number": 3,
-    "name": "Guigou",
-    "region_name": "Fès-Meknès"
+    "name": "Imouzzer Kandar",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_8ce764f3-dc38-4d55-97cf-60f1df7bc69d"
   },
   {
     "id": 64,
     "region_number": 3,
-    "name": "Imouzzer Kandar",
-    "region_name": "Fès-Meknès"
+    "name": "Imouzzer Marmoucha",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_bdbbecfa-e17b-4746-84ae-ef412dcbc056"
   },
   {
     "id": 65,
     "region_number": 3,
-    "name": "Imouzzer Marmoucha",
-    "region_name": "Fès-Meknès"
+    "name": "Missour",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_a0203d13-2ec8-47c4-920a-8f5744acbc59"
   },
   {
     "id": 66,
     "region_number": 3,
-    "name": "Missour",
-    "region_name": "Fès-Meknès"
+    "name": "Moulay Yaâcoub",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_9c099b2c-f34d-49db-9c03-96c90ed6fbc8"
   },
   {
     "id": 67,
     "region_number": 3,
-    "name": "Moulay Yaâcoub",
-    "region_name": "Fès-Meknès"
+    "name": "Ouled Tayeb",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_780d6f7b-bda0-4482-bf69-973179ebd7f6"
   },
   {
     "id": 68,
     "region_number": 3,
-    "name": "Ouled Tayeb",
-    "region_name": "Fès-Meknès"
+    "name": "Outat El Haj",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_1679efe1-9198-491f-b2ed-cce5bc4bc221"
   },
   {
     "id": 69,
     "region_number": 3,
-    "name": "Outat El Haj",
-    "region_name": "Fès-Meknès"
+    "name": "Ribate El Kheir",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_12ec40ab-281b-4565-a957-6f68c9d9d312"
   },
   {
     "id": 70,
     "region_number": 3,
-    "name": "Ribate El Kheir",
-    "region_name": "Fès-Meknès"
+    "name": "Séfrou",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_cc8c17b9-67ae-4723-bda2-95de45dd2528"
   },
   {
     "id": 71,
     "region_number": 3,
-    "name": "Séfrou",
-    "region_name": "Fès-Meknès"
+    "name": "Skhinate",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_71d66000-2088-40a0-8eaf-6b6bfe3d6a69"
   },
   {
     "id": 72,
     "region_number": 3,
-    "name": "Skhinate",
-    "region_name": "Fès-Meknès"
+    "name": "Tafajight",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_d1897ec4-2a8b-4d59-b9be-04a145d4bbe9"
   },
   {
     "id": 73,
-    "region_number": 3,
-    "name": "Tafajight",
-    "region_name": "Fès-Meknès"
+    "region_number": 4,
+    "name": "Arbaoua",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_18e1e567-64fd-4359-b376-cf374dc08f3a"
   },
   {
     "id": 74,
-    "region_number": 4,
-    "name": "Arbaoua",
-    "region_name": "Rabat-Salé-Kénitra"
+    "region_number": 1,
+    "name": "Aïn Dorij",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_36b956ea-8ce6-4fae-93df-f71aac8aa3e6"
   },
   {
     "id": 75,
-    "region_number": 1,
-    "name": "Aïn Dorij",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 4,
+    "name": "Dar Gueddari",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_9ac6e07e-5a8c-460d-bd62-dc2a8b8ee4e5"
   },
   {
     "id": 76,
     "region_number": 4,
-    "name": "Dar Gueddari",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Had Kourt",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_e6b3ed6a-9b29-4937-9724-678d6a2f2719"
   },
   {
     "id": 77,
     "region_number": 4,
-    "name": "Had Kourt",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Jorf El Melha",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_be5d1744-540f-4c65-99ff-89f298eb6742"
   },
   {
     "id": 78,
     "region_number": 4,
-    "name": "Jorf El Melha",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Kénitra",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_364aaf6e-bcab-4bb4-928a-668b8d4766d5"
   },
   {
     "id": 79,
     "region_number": 4,
-    "name": "Kénitra",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Khenichet",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_a281ec2f-f036-4c84-bad2-c43855bccd59"
   },
   {
     "id": 80,
     "region_number": 4,
-    "name": "Khenichet",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Lalla Mimouna",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_41c1f87c-4c04-4318-891f-04bb5f605248"
   },
   {
     "id": 81,
     "region_number": 4,
-    "name": "Lalla Mimouna",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Mechra Bel Ksiri",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_d7813ea3-2f92-42ef-bac2-22835779a068"
   },
   {
     "id": 82,
     "region_number": 4,
-    "name": "Mechra Bel Ksiri",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Mehdia",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_3c1d5605-1010-43bc-b62f-58b9b3c26c9a"
   },
   {
     "id": 83,
     "region_number": 4,
-    "name": "Mehdia",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Moulay Bousselham",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_d5b0cd6b-b1eb-4d75-8bda-a67cfb764d80"
   },
   {
     "id": 84,
     "region_number": 4,
-    "name": "Moulay Bousselham",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Sidi Allal Tazi",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_9cc6a3af-2db1-4239-8744-4934f598115f"
   },
   {
     "id": 85,
     "region_number": 4,
-    "name": "Sidi Allal Tazi",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Sidi Kacem",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_f9b5b582-374d-497f-ba02-9912b5479bbb"
   },
   {
     "id": 86,
     "region_number": 4,
-    "name": "Sidi Kacem",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Sidi Slimane",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_e99a827b-cd20-45f1-b505-e3d3ca3b28b7"
   },
   {
     "id": 87,
     "region_number": 4,
-    "name": "Sidi Slimane",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Sidi Taibi",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_2372335c-7b40-4126-8bd4-32ae03238498"
   },
   {
     "id": 88,
     "region_number": 4,
-    "name": "Sidi Taibi",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Sidi Yahya El Gharb",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_fcdffb67-1243-4bc9-8228-01102d05acb0"
   },
   {
     "id": 89,
     "region_number": 4,
-    "name": "Sidi Yahya El Gharb",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Souk El Arbaa",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_b02b6714-8fca-45a1-a445-537a42e8f0c1"
   },
   {
     "id": 90,
-    "region_number": 4,
-    "name": "Souk El Arbaa",
-    "region_name": "Rabat-Salé-Kénitra"
+    "region_number": 9,
+    "name": "Akka",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_d466456e-b1db-4c8c-b2a5-76cc5d944464"
   },
   {
     "id": 91,
-    "region_number": 9,
-    "name": "Akka",
-    "region_name": "Souss-Massa"
+    "region_number": 10,
+    "name": "Assa",
+    "region_name": "Guelmim-Oued Noun",
+    "uniq_id": "city_6c5d4a3a-af1e-472e-95cf-68e8e72356b0"
   },
   {
     "id": 92,
     "region_number": 10,
-    "name": "Assa",
-    "region_name": "Guelmim-Oued Noun"
+    "name": "Bouizakarne",
+    "region_name": "Guelmim-Oued Noun",
+    "uniq_id": "city_fde1fe90-720e-4934-bb75-ab3f49629b66"
   },
   {
     "id": 93,
     "region_number": 10,
-    "name": "Bouizakarne",
-    "region_name": "Guelmim-Oued Noun"
+    "name": "El Ouatia",
+    "region_name": "Guelmim-Oued Noun",
+    "uniq_id": "city_d257900b-aa5c-4295-a30c-e52db4b9a5d1"
   },
   {
     "id": 94,
-    "region_number": 10,
-    "name": "El Ouatia",
-    "region_name": "Guelmim-Oued Noun"
+    "region_number": 11,
+    "name": "Es-Semara",
+    "region_name": "Laâyoune-Sakia El Hamra",
+    "uniq_id": "city_d0e021ac-7e8b-40e1-a45f-b0f0eeb76022"
   },
   {
     "id": 95,
-    "region_number": 11,
-    "name": "Es-Semara",
-    "region_name": "Laâyoune-Sakia El Hamra"
+    "region_number": 9,
+    "name": "Fam El Hisn",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_3a49c35d-0093-433f-9879-5b6f156df7b4"
   },
   {
     "id": 96,
     "region_number": 9,
-    "name": "Fam El Hisn",
-    "region_name": "Souss-Massa"
+    "name": "Foum Zguid",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_ff5b6d8a-02ff-487b-b408-283a8d7621ac"
   },
   {
     "id": 97,
-    "region_number": 9,
-    "name": "Foum Zguid",
-    "region_name": "Souss-Massa"
+    "region_number": 10,
+    "name": "Guelmim",
+    "region_name": "Guelmim-Oued Noun",
+    "uniq_id": "city_887eb5dc-d74d-4ba5-88d8-2b680671323e"
   },
   {
     "id": 98,
     "region_number": 10,
-    "name": "Guelmim",
-    "region_name": "Guelmim-Oued Noun"
+    "name": "Taghjijt",
+    "region_name": "Guelmim-Oued Noun",
+    "uniq_id": "city_ddd7e6ff-6ea3-4c63-8f26-6aa5a9a39752"
   },
   {
     "id": 99,
     "region_number": 10,
-    "name": "Taghjijt",
-    "region_name": "Guelmim-Oued Noun"
+    "name": "Tan-Tan",
+    "region_name": "Guelmim-Oued Noun",
+    "uniq_id": "city_c1e1c724-570b-47c2-8f70-4cbff223a753"
   },
   {
     "id": 100,
-    "region_number": 10,
-    "name": "Tan-Tan",
-    "region_name": "Guelmim-Oued Noun"
+    "region_number": 9,
+    "name": "Tata",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_c8c267a5-ea76-485a-9f0c-2d3542fe6641"
   },
   {
     "id": 101,
-    "region_number": 9,
-    "name": "Tata",
-    "region_name": "Souss-Massa"
+    "region_number": 10,
+    "name": "Zag",
+    "region_name": "Guelmim-Oued Noun",
+    "uniq_id": "city_22a137f2-7a27-4cf9-913a-0fb23b288f80"
   },
   {
     "id": 102,
-    "region_number": 10,
-    "name": "Zag",
-    "region_name": "Guelmim-Oued Noun"
+    "region_number": 7,
+    "name": "Marrakech",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_80f346f3-7177-44bd-a79c-5a9235d65ea1"
   },
   {
     "id": 103,
     "region_number": 7,
-    "name": "Marrakech",
-    "region_name": "Marrakech-Safi"
+    "name": "Ait Daoud",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_84da8b05-1c7e-44be-988d-d1f295cc8667"
   },
   {
     "id": 104,
     "region_number": 7,
-    "name": "Ait Daoud",
-    "region_name": "Marrakech-Safi"
+    "name": "Amizmiz",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_e881af74-5db5-4c91-9cd9-36ea6929ee20"
+  },
+  {
+    "id": 105,
+    "region_number": 7,
+    "name": "Assahrij",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_eeaa417d-500b-489e-a33e-a1d060e7e4d4"
+  },
+  {
+    "id": 106,
+    "region_number": 7,
+    "name": "Aït Ourir",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_7201da8b-6e1f-43a3-aa7d-babc44486552"
+  },
+  {
+    "id": 107,
+    "region_number": 7,
+    "name": "Ben Guerir",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_a55fa10c-3a4e-4ada-b306-e3fa45573e46"
+  },
+  {
+    "id": 108,
+    "region_number": 7,
+    "name": "Chichaoua",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_c7e86a67-d383-4346-88de-291db07653fb"
+  },
+  {
+    "id": 109,
+    "region_number": 7,
+    "name": "El Hanchane",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_ac1faea1-d17d-4051-8a5e-537e195ab8f8"
+  },
+  {
+    "id": 110,
+    "region_number": 7,
+    "name": "El Kelaâ des Sraghna",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_efc039eb-c2b9-4d36-bad1-190cfc0f402a"
+  },
+  {
+    "id": 111,
+    "region_number": 7,
+    "name": "Essaouira",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_3af22e38-b8c9-4feb-aae6-5d6576b709b2"
+  },
+  {
+    "id": 112,
+    "region_number": 7,
+    "name": "Fraïta",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_8a4e0715-9951-4037-b5e0-2b250e910a59"
+  },
+  {
+    "id": 113,
+    "region_number": 7,
+    "name": "Ghmate",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_bd85b5af-c76e-4c9a-ba0e-a577c1d348b7"
+  },
+  {
+    "id": 114,
+    "region_number": 8,
+    "name": "Ighounane",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_e192bf49-26a4-46b1-8b7a-fdc4236cbaf9"
   },
   {
     "id": 115,
     "region_number": 7,
-    "name": "Amizmiz",
-    "region_name": "Marrakech-Safi"
+    "name": "Imintanoute",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_91a1ba94-3a67-4ab0-9116-d90858388a3e"
   },
   {
     "id": 116,
     "region_number": 7,
-    "name": "Assahrij",
-    "region_name": "Marrakech-Safi"
+    "name": "Kattara",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_1ae4c7a3-2b75-4067-9134-a09a1496227f"
   },
   {
     "id": 117,
     "region_number": 7,
-    "name": "Aït Ourir",
-    "region_name": "Marrakech-Safi"
+    "name": "Lalla Takerkoust",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_cc73b38a-08f0-414d-a2da-f3869b456d6a"
   },
   {
     "id": 118,
     "region_number": 7,
-    "name": "Ben Guerir",
-    "region_name": "Marrakech-Safi"
+    "name": "Loudaya",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_c16929a4-950d-4749-9458-3564954413df"
   },
   {
     "id": 119,
     "region_number": 7,
-    "name": "Chichaoua",
-    "region_name": "Marrakech-Safi"
+    "name": "Lâattaouia",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_7e9aea0c-efc0-4126-82f5-55e387f8cdec"
   },
   {
     "id": 120,
     "region_number": 7,
-    "name": "El Hanchane",
-    "region_name": "Marrakech-Safi"
+    "name": "Moulay Brahim",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_fd06b1a7-c785-4703-87db-a4f928dcdbca"
   },
   {
     "id": 121,
     "region_number": 7,
-    "name": "El Kelaâ des Sraghna",
-    "region_name": "Marrakech-Safi"
+    "name": "Mzouda",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_e76c4ce1-4ca2-46cf-978f-8c86ff8aef98"
   },
   {
     "id": 122,
     "region_number": 7,
-    "name": "Essaouira",
-    "region_name": "Marrakech-Safi"
+    "name": "Ounagha",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_7bb76e13-3d4b-4a3d-be53-89c3457e7df1"
   },
   {
     "id": 123,
     "region_number": 7,
-    "name": "Fraïta",
-    "region_name": "Marrakech-Safi"
+    "name": "Sid L'Mokhtar",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_de08b27d-c0f8-4679-a8e5-856ac2d394a8"
   },
   {
     "id": 124,
     "region_number": 7,
-    "name": "Ghmate",
-    "region_name": "Marrakech-Safi"
+    "name": "Sid Zouin",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_bfda66ca-2da7-4510-859a-26ac2b2e5877"
   },
   {
     "id": 125,
-    "region_number": 8,
-    "name": "Ighounane",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 7,
+    "name": "Sidi Abdallah Ghiat",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_a90b7d29-59aa-424a-afd4-f6c6ee160b8b"
   },
   {
     "id": 126,
     "region_number": 7,
-    "name": "Imintanoute",
-    "region_name": "Marrakech-Safi"
+    "name": "Sidi Bou Othmane",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_7bc12951-9449-45a7-98f3-0e96e7416d3b"
   },
   {
     "id": 127,
     "region_number": 7,
-    "name": "Kattara",
-    "region_name": "Marrakech-Safi"
+    "name": "Sidi Rahhal",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_6023b04f-c5bd-4f7f-b6c4-f649eedee389"
   },
   {
     "id": 128,
     "region_number": 7,
-    "name": "Lalla Takerkoust",
-    "region_name": "Marrakech-Safi"
+    "name": "Skhour Rehamna",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_82691078-4e2b-47da-80b4-76151cbe734c"
   },
   {
     "id": 129,
     "region_number": 7,
-    "name": "Loudaya",
-    "region_name": "Marrakech-Safi"
+    "name": "Smimou",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_1546b28f-a664-475b-a0bc-e9e118dbd5a3"
   },
   {
     "id": 130,
     "region_number": 7,
-    "name": "Lâattaouia",
-    "region_name": "Marrakech-Safi"
+    "name": "Tafetachte",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_117925d5-93ec-42cd-baf9-21eeafb4fa89"
   },
   {
     "id": 131,
     "region_number": 7,
-    "name": "Moulay Brahim",
-    "region_name": "Marrakech-Safi"
+    "name": "Tahannaout",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_07e5403a-eb9a-4b86-ba12-8878274f9814"
   },
   {
     "id": 132,
     "region_number": 7,
-    "name": "Mzouda",
-    "region_name": "Marrakech-Safi"
+    "name": "Talmest",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_6f399521-228a-4fe0-b1cd-f708f7e83b4b"
   },
   {
     "id": 133,
     "region_number": 7,
-    "name": "Ounagha",
-    "region_name": "Marrakech-Safi"
+    "name": "Tamallalt",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_52ed13ce-e9a5-448e-a6dc-38d282397047"
   },
   {
     "id": 134,
     "region_number": 7,
-    "name": "Sid L'Mokhtar",
-    "region_name": "Marrakech-Safi"
+    "name": "Tamanar",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_8e535289-8818-4e65-b0ca-b0315292a16b"
   },
   {
     "id": 135,
     "region_number": 7,
-    "name": "Sid Zouin",
-    "region_name": "Marrakech-Safi"
+    "name": "Tamansourt",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_205c1092-aef0-4eec-828c-f3cdcc7ff7b2"
   },
   {
     "id": 136,
     "region_number": 7,
-    "name": "Sidi Abdallah Ghiat",
-    "region_name": "Marrakech-Safi"
+    "name": "Tameslouht",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_b06ad20d-bb81-4c34-84c6-38b220a05d55"
   },
   {
     "id": 137,
-    "region_number": 7,
-    "name": "Sidi Bou Othmane",
-    "region_name": "Marrakech-Safi"
+    "region_number": 9,
+    "name": "Tanalt",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_abdf3397-b72b-4fe9-bb91-52effbaffab4"
   },
   {
     "id": 138,
     "region_number": 7,
-    "name": "Sidi Rahhal",
-    "region_name": "Marrakech-Safi"
+    "name": "Zeubelemok",
+    "region_name": "Marrakech-Safi",
+    "uniq_id": "city_dc0486f7-cf68-41b2-b0fd-45772a76c7fa"
   },
   {
     "id": 139,
-    "region_number": 7,
-    "name": "Skhour Rehamna",
-    "region_name": "Marrakech-Safi"
+    "region_number": 3,
+    "name": "Meknès‎",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_2d347046-b54b-414e-a901-ce3703a02313"
   },
   {
     "id": 140,
-    "region_number": 7,
-    "name": "Smimou",
-    "region_name": "Marrakech-Safi"
+    "region_number": 5,
+    "name": "Khénifra",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_230323d3-c235-4e69-bfe9-25d8a11b15a1"
   },
   {
     "id": 141,
-    "region_number": 7,
-    "name": "Tafetachte",
-    "region_name": "Marrakech-Safi"
+    "region_number": 3,
+    "name": "Agourai",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_a1a9a933-c9b4-44de-a099-f1bc745ba69c"
   },
   {
     "id": 142,
-    "region_number": 7,
-    "name": "Tahannaout",
-    "region_name": "Marrakech-Safi"
+    "region_number": 3,
+    "name": "Ain Taoujdate",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_c37cc98a-204e-4d28-bcf7-53805aa655fb"
   },
   {
     "id": 143,
-    "region_number": 7,
-    "name": "Talmest",
-    "region_name": "Marrakech-Safi"
+    "region_number": 8,
+    "name": "MyAliCherif",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_fb7e02b8-6671-4b22-989f-4a3f11f4db96"
   },
   {
     "id": 144,
-    "region_number": 7,
-    "name": "Tamallalt",
-    "region_name": "Marrakech-Safi"
+    "region_number": 8,
+    "name": "Rissani",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_1d133454-bdf4-41df-8ee3-64d91239d2c8"
   },
   {
     "id": 145,
-    "region_number": 7,
-    "name": "Tamanar",
-    "region_name": "Marrakech-Safi"
+    "region_number": 5,
+    "name": "Amalou Ighriben",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_c549bda1-9de8-4b78-a535-4be288bfe1a6"
   },
   {
     "id": 146,
-    "region_number": 7,
-    "name": "Tamansourt",
-    "region_name": "Marrakech-Safi"
+    "region_number": 8,
+    "name": "Aoufous",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_111a8165-598f-4b67-b152-2e42dae5e2ee"
   },
   {
     "id": 147,
-    "region_number": 7,
-    "name": "Tameslouht",
-    "region_name": "Marrakech-Safi"
+    "region_number": 8,
+    "name": "Arfoud",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_19103213-b5a4-443c-ad3e-bc0da071ae61"
   },
   {
     "id": 148,
-    "region_number": 9,
-    "name": "Tanalt",
-    "region_name": "Souss-Massa"
+    "region_number": 3,
+    "name": "Azrou",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_3f2a74c1-496e-49a2-b567-983b58ad76d1"
   },
   {
     "id": 149,
-    "region_number": 7,
-    "name": "Zeubelemok",
-    "region_name": "Marrakech-Safi"
+    "region_number": 3,
+    "name": "Aïn Jemaa",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_064a6929-1a51-4e04-8c38-27a676a11610"
   },
   {
     "id": 150,
     "region_number": 3,
-    "name": "Meknès‎",
-    "region_name": "Fès-Meknès"
+    "name": "Aïn Karma",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_fdabf9ff-7871-489e-af73-9a587806f8fc"
   },
   {
     "id": 151,
-    "region_number": 5,
-    "name": "Khénifra",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 3,
+    "name": "Aïn Leuh",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_0c3ffef9-8c56-41eb-ad41-d3905079d12a"
   },
   {
     "id": 152,
     "region_number": 3,
-    "name": "Agourai",
-    "region_name": "Fès-Meknès"
+    "name": "Aït Boubidmane",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_17c26a9e-8e4a-4262-ae4b-02f96ae46885"
   },
   {
     "id": 153,
-    "region_number": 3,
-    "name": "Ain Taoujdate",
-    "region_name": "Fès-Meknès"
+    "region_number": 5,
+    "name": "Aït Ishaq",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_d9a2994e-c4e0-4b44-b5ff-ed8566df3ede"
   },
   {
     "id": 154,
     "region_number": 8,
-    "name": "MyAliCherif",
-    "region_name": "Drâa-Tafilalet"
+    "name": "Boudnib",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_3f367574-f198-43c2-a119-5f24ae920f5c"
   },
   {
     "id": 155,
-    "region_number": 8,
-    "name": "Rissani",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 3,
+    "name": "Boufakrane",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_036acf86-54a5-4e98-949b-1378a0436268"
   },
   {
     "id": 156,
-    "region_number": 5,
-    "name": "Amalou Ighriben",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 8,
+    "name": "Boumia",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_e13046f7-75ed-4512-aa91-2ee53d3e4ce0"
   },
   {
     "id": 157,
-    "region_number": 8,
-    "name": "Aoufous",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 3,
+    "name": "El Hajeb",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_87a40b7f-c821-4571-88e0-9d8734787bf5"
   },
   {
     "id": 158,
-    "region_number": 8,
-    "name": "Arfoud",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 5,
+    "name": "Elkbab",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_aeaee774-af5e-422e-a901-35746fa0d039"
   },
   {
     "id": 159,
-    "region_number": 3,
-    "name": "Azrou",
-    "region_name": "Fès-Meknès"
+    "region_number": 5,
+    "name": "Er-Rich",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_9257b008-3606-43b2-967b-73cbde91c036"
   },
   {
     "id": 160,
-    "region_number": 3,
-    "name": "Aïn Jemaa",
-    "region_name": "Fès-Meknès"
+    "region_number": 8,
+    "name": "Errachidia",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_c6b351ec-ba5a-4f8a-b5fd-be209a939dec"
   },
   {
     "id": 161,
-    "region_number": 3,
-    "name": "Aïn Karma",
-    "region_name": "Fès-Meknès"
+    "region_number": 8,
+    "name": "Gardmit",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_b92835e0-9934-488b-859c-0a842fa21e31"
   },
   {
     "id": 162,
-    "region_number": 3,
-    "name": "Aïn Leuh",
-    "region_name": "Fès-Meknès"
+    "region_number": 8,
+    "name": "Goulmima",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_c8dabe8b-7754-4b4e-ba93-df5839ecd907"
   },
   {
     "id": 163,
-    "region_number": 3,
-    "name": "Aït Boubidmane",
-    "region_name": "Fès-Meknès"
+    "region_number": 8,
+    "name": "Gourrama",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_3a5d79b8-ee24-4f4a-acf5-46874f68eb54"
   },
   {
     "id": 164,
     "region_number": 5,
-    "name": "Aït Ishaq",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Had Bouhssoussen",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_94591879-2ec6-4d69-aafc-de94bbaf4142"
   },
   {
     "id": 165,
-    "region_number": 8,
-    "name": "Boudnib",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 3,
+    "name": "Haj Kaddour",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_ea244f42-4b38-45a5-92dc-909d6311d04e"
   },
   {
     "id": 166,
     "region_number": 3,
-    "name": "Boufakrane",
-    "region_name": "Fès-Meknès"
+    "name": "Ifrane",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_03cee4df-2e9a-4d88-b148-1e30df9d8c3d"
   },
   {
     "id": 167,
     "region_number": 8,
-    "name": "Boumia",
-    "region_name": "Drâa-Tafilalet"
+    "name": "Itzer",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_4e200262-cc06-4595-af78-abf0ec7cc9f7"
   },
   {
     "id": 168,
-    "region_number": 3,
-    "name": "El Hajeb",
-    "region_name": "Fès-Meknès"
+    "region_number": 8,
+    "name": "Jorf",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_3ee20564-1a89-410b-bf41-e5b3fb755ee3"
   },
   {
     "id": 169,
     "region_number": 5,
-    "name": "Elkbab",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Kehf Nsour",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_d1cad3e1-cde2-4f0b-8d85-5c564c901af1"
   },
   {
     "id": 170,
     "region_number": 5,
-    "name": "Er-Rich",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Kerrouchen",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_cc83137c-0e78-4789-be29-107bd4235f83"
   },
   {
     "id": 171,
-    "region_number": 8,
-    "name": "Errachidia",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 3,
+    "name": "M'haya",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_f5aa09b5-bf60-4931-8b5f-06f71adfdc00"
   },
   {
     "id": 172,
-    "region_number": 8,
-    "name": "Gardmit",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 5,
+    "name": "M'rirt",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_d50828b8-a1d3-4eff-bd1d-838224498084"
   },
   {
     "id": 173,
     "region_number": 8,
-    "name": "Goulmima",
-    "region_name": "Drâa-Tafilalet"
+    "name": "Midelt",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_17a3cc4a-ba09-4fe5-8817-59f12a4cb4d8"
   },
   {
     "id": 174,
     "region_number": 8,
-    "name": "Gourrama",
-    "region_name": "Drâa-Tafilalet"
+    "name": "Moulay Ali Cherif",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_d4338352-0d69-46d5-bfe1-827c21f018bf"
   },
   {
     "id": 175,
     "region_number": 5,
-    "name": "Had Bouhssoussen",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Moulay Bouazza",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_5bda0af0-87c3-4e99-baa3-1985e104fb09"
   },
   {
     "id": 176,
     "region_number": 3,
-    "name": "Haj Kaddour",
-    "region_name": "Fès-Meknès"
+    "name": "Moulay Idriss Zerhoun",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_8e2cb902-debe-4d43-89b5-436b1188fd11"
   },
   {
     "id": 177,
     "region_number": 3,
-    "name": "Ifrane",
-    "region_name": "Fès-Meknès"
+    "name": "Moussaoua",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_a0643162-7971-47af-a0ab-ad5b6a735631"
   },
   {
     "id": 178,
-    "region_number": 8,
-    "name": "Itzer",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 3,
+    "name": "N'Zalat Bni Amar",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_3c90cdba-9088-40d8-a973-28b3848967fd"
   },
   {
     "id": 179,
-    "region_number": 8,
-    "name": "Jorf",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 5,
+    "name": "Ouaoumana",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_219e2a70-f49b-4f0f-bcbb-6511e1924a71"
   },
   {
     "id": 180,
-    "region_number": 5,
-    "name": "Kehf Nsour",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 3,
+    "name": "Oued Ifrane",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_e7db1349-0b5d-4131-9e23-9803383b98af"
   },
   {
     "id": 181,
-    "region_number": 5,
-    "name": "Kerrouchen",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 3,
+    "name": "Sabaa Aiyoun",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_bdaa3f1d-2700-4f7f-a601-746a764deaeb"
   },
   {
     "id": 182,
     "region_number": 3,
-    "name": "M'haya",
-    "region_name": "Fès-Meknès"
+    "name": "Sebt Jahjouh",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_66865dba-26d2-489c-a841-b770f489b399"
   },
   {
     "id": 183,
-    "region_number": 5,
-    "name": "M'rirt",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 3,
+    "name": "Sidi Addi",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_a0aababc-d6b0-4718-bc22-52360bdbe852"
   },
   {
     "id": 184,
     "region_number": 8,
-    "name": "Midelt",
-    "region_name": "Drâa-Tafilalet"
+    "name": "Tichoute",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_6fb593c9-bf8c-4eac-ba2f-e29705a070cc"
   },
   {
     "id": 185,
-    "region_number": 8,
-    "name": "Moulay Ali Cherif",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 5,
+    "name": "Tighassaline",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_340684fe-b6fd-419f-997a-8bde58137d44"
   },
   {
     "id": 186,
     "region_number": 5,
-    "name": "Moulay Bouazza",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Tighza",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_0e08db4e-7365-422f-a0b2-b9171519a482"
   },
   {
     "id": 187,
     "region_number": 3,
-    "name": "Moulay Idriss Zerhoun",
-    "region_name": "Fès-Meknès"
+    "name": "Timahdite",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_be17438b-b339-45a0-8a3c-23d6fa7fe30f"
   },
   {
     "id": 188,
-    "region_number": 3,
-    "name": "Moussaoua",
-    "region_name": "Fès-Meknès"
+    "region_number": 8,
+    "name": "Tinejdad",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_8e63c321-e08b-45e9-9d60-eef8fdc290dc"
   },
   {
     "id": 189,
     "region_number": 3,
-    "name": "N'Zalat Bni Amar",
-    "region_name": "Fès-Meknès"
+    "name": "Tizguite",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_a34b3cc0-cb87-4ab9-b095-ce8f5b326647"
   },
   {
     "id": 190,
-    "region_number": 5,
-    "name": "Ouaoumana",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 3,
+    "name": "Toulal",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_796a64bc-45a0-4a94-a0f6-bbf04e931f78"
   },
   {
     "id": 191,
-    "region_number": 3,
-    "name": "Oued Ifrane",
-    "region_name": "Fès-Meknès"
+    "region_number": 8,
+    "name": "Tounfite",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_3c874e20-ca07-46a2-877b-05b6ddae6161"
   },
   {
     "id": 192,
     "region_number": 3,
-    "name": "Sabaa Aiyoun",
-    "region_name": "Fès-Meknès"
+    "name": "Zaouia d'Ifrane",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_ee517c7e-2b30-4806-84f8-8c6e06a06f11"
   },
   {
     "id": 193,
-    "region_number": 3,
-    "name": "Sebt Jahjouh",
-    "region_name": "Fès-Meknès"
+    "region_number": 8,
+    "name": "Zaïda",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_18dc11fc-a3c4-4bf6-84fd-436c32c5da2c"
   },
   {
     "id": 194,
-    "region_number": 3,
-    "name": "Sidi Addi",
-    "region_name": "Fès-Meknès"
+    "region_number": 2,
+    "name": "Ahfir",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_e3e68c0c-c38b-4f18-9849-6add2bb9d71e"
   },
   {
     "id": 195,
-    "region_number": 8,
-    "name": "Tichoute",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 2,
+    "name": "Aklim",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_156cb04f-37fa-4355-bdfa-595cb2e65cd0"
   },
   {
     "id": 196,
-    "region_number": 5,
-    "name": "Tighassaline",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 2,
+    "name": "Al Aroui",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_9c4fae8b-b0aa-45a9-b00f-6156017b2f08"
   },
   {
     "id": 197,
-    "region_number": 5,
-    "name": "Tighza",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 2,
+    "name": "Aïn Bni Mathar",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_9aa46415-6c58-4783-a1bb-5f80db489326"
   },
   {
     "id": 198,
-    "region_number": 3,
-    "name": "Timahdite",
-    "region_name": "Fès-Meknès"
+    "region_number": 2,
+    "name": "Aïn Erreggada",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_f26a88d2-9d9d-41c4-9eb4-68405059cce0"
   },
   {
     "id": 199,
-    "region_number": 8,
-    "name": "Tinejdad",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 2,
+    "name": "Ben Taïeb",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_f817b9a9-5bb0-4133-942a-b6465d3690eb"
   },
   {
     "id": 200,
-    "region_number": 3,
-    "name": "Tizguite",
-    "region_name": "Fès-Meknès"
+    "region_number": 2,
+    "name": "Berkane",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_5dd84d9d-8f06-4033-b4d4-ba019613e0bd"
   },
   {
     "id": 201,
-    "region_number": 3,
-    "name": "Toulal",
-    "region_name": "Fès-Meknès"
+    "region_number": 2,
+    "name": "Bni Ansar",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_80997083-f4c5-4bd0-bc39-50efccaea2d9"
   },
   {
     "id": 202,
-    "region_number": 8,
-    "name": "Tounfite",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 2,
+    "name": "Bni Chiker",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_ec0f5ff9-067d-46b6-b5fe-a214d92eb4ed"
   },
   {
     "id": 203,
-    "region_number": 3,
-    "name": "Zaouia d'Ifrane",
-    "region_name": "Fès-Meknès"
+    "region_number": 2,
+    "name": "Bni Drar",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_5c043f1a-c018-450d-be12-2ad990fb8cd3"
   },
   {
     "id": 204,
-    "region_number": 8,
-    "name": "Zaïda",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 2,
+    "name": "Bni Tadjite",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_443337f5-a698-47b4-9221-5947360775ef"
   },
   {
     "id": 205,
     "region_number": 2,
-    "name": "Ahfir",
-    "region_name": "l'Oriental"
+    "name": "Bouanane",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_64e136f7-7fec-4e7b-9b39-b6737214005f"
   },
   {
     "id": 206,
     "region_number": 2,
-    "name": "Aklim",
-    "region_name": "l'Oriental"
+    "name": "Bouarfa",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_d689f811-3efe-4ea5-8c7b-174b06be837d"
   },
   {
     "id": 207,
     "region_number": 2,
-    "name": "Al Aroui",
-    "region_name": "l'Oriental"
+    "name": "Bouhdila",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_2cf330bc-7dc5-4d1f-8b98-945e7953a49b"
   },
   {
     "id": 208,
     "region_number": 2,
-    "name": "Aïn Bni Mathar",
-    "region_name": "l'Oriental"
+    "name": "Dar El Kebdani",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_0b06a8b7-f1b3-4f1d-9ec4-eccc3d5352b8"
   },
   {
     "id": 209,
     "region_number": 2,
-    "name": "Aïn Erreggada",
-    "region_name": "l'Oriental"
+    "name": "Debdou",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_f2142f1a-e867-41a6-8fca-2f448e32e964"
   },
   {
     "id": 210,
     "region_number": 2,
-    "name": "Ben Taïeb",
-    "region_name": "l'Oriental"
+    "name": "Douar Kannine",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_49f0b0b1-8033-46a1-8bbf-3e86d1f76696"
   },
   {
     "id": 211,
     "region_number": 2,
-    "name": "Berkane",
-    "region_name": "l'Oriental"
+    "name": "Driouch",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_61260984-e5ef-4935-a1bb-490cedc1211c"
   },
   {
     "id": 212,
     "region_number": 2,
-    "name": "Bni Ansar",
-    "region_name": "l'Oriental"
+    "name": "El Aïoun Sidi Mellouk",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_453fbec4-c072-4d85-ae8e-69a40fd99b24"
   },
   {
     "id": 213,
     "region_number": 2,
-    "name": "Bni Chiker",
-    "region_name": "l'Oriental"
+    "name": "Farkhana",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_431d7c3a-4358-4346-a767-8a19819aa8d9"
   },
   {
     "id": 214,
     "region_number": 2,
-    "name": "Bni Drar",
-    "region_name": "l'Oriental"
+    "name": "Figuig",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_4314c9ca-82fd-4db7-9855-53f6f64195f8"
   },
   {
     "id": 215,
     "region_number": 2,
-    "name": "Bni Tadjite",
-    "region_name": "l'Oriental"
+    "name": "Ihddaden",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_be356291-28d8-41af-91aa-d421ccf75c74"
   },
   {
     "id": 216,
     "region_number": 2,
-    "name": "Bouanane",
-    "region_name": "l'Oriental"
+    "name": "Jaâdar",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_6771b5d8-5af5-4d73-b324-65a3246fcc5c"
   },
   {
     "id": 217,
     "region_number": 2,
-    "name": "Bouarfa",
-    "region_name": "l'Oriental"
+    "name": "Jerada",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_728f1290-4858-4f66-828b-4ba355510eef"
   },
   {
     "id": 218,
     "region_number": 2,
-    "name": "Bouhdila",
-    "region_name": "l'Oriental"
+    "name": "Kariat Arekmane",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_eafa8a9f-27f1-485e-8910-eb90477b4d2f"
   },
   {
     "id": 219,
     "region_number": 2,
-    "name": "Dar El Kebdani",
-    "region_name": "l'Oriental"
+    "name": "Kassita",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_d49ecc07-f316-4883-84dd-a249ae6f99db"
   },
   {
     "id": 220,
     "region_number": 2,
-    "name": "Debdou",
-    "region_name": "l'Oriental"
+    "name": "Kerouna",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_7fb0776a-06ea-428f-b909-b981f877cca4"
   },
   {
     "id": 221,
     "region_number": 2,
-    "name": "Douar Kannine",
-    "region_name": "l'Oriental"
+    "name": "Laâtamna",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_4760e16e-b75e-4e3b-8bbb-a8eed7032c2d"
   },
   {
     "id": 222,
     "region_number": 2,
-    "name": "Driouch",
-    "region_name": "l'Oriental"
+    "name": "Madagh",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_ba25645f-238d-4d54-88de-c1566c3898ab"
   },
   {
     "id": 223,
     "region_number": 2,
-    "name": "El Aïoun Sidi Mellouk",
-    "region_name": "l'Oriental"
+    "name": "Midar",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_437fa938-8805-4224-9efc-ee0830f37914"
   },
   {
     "id": 224,
     "region_number": 2,
-    "name": "Farkhana",
-    "region_name": "l'Oriental"
+    "name": "Nador",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_f5284f20-95f1-41e1-b729-86033df7e85a"
   },
   {
     "id": 225,
     "region_number": 2,
-    "name": "Figuig",
-    "region_name": "l'Oriental"
+    "name": "Naima",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_2fd7fb72-120c-421c-898f-620b5bce3c7e"
   },
   {
     "id": 226,
     "region_number": 2,
-    "name": "Ihddaden",
-    "region_name": "l'Oriental"
+    "name": "Oued Heimer",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_a27f0d87-5b33-4676-9e9c-185066b14c16"
   },
   {
     "id": 227,
     "region_number": 2,
-    "name": "Jaâdar",
-    "region_name": "l'Oriental"
+    "name": "Oujda",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_6a40d13c-d5d1-4ed0-9114-d147a351f085"
   },
   {
     "id": 228,
     "region_number": 2,
-    "name": "Jerada",
-    "region_name": "l'Oriental"
+    "name": "Ras El Ma",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_fbeb1d07-6bf0-4f68-b021-1f6259be1daa"
   },
   {
     "id": 229,
     "region_number": 2,
-    "name": "Kariat Arekmane",
-    "region_name": "l'Oriental"
+    "name": "Saïdia",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_41643a7b-5b3e-4a05-932a-c21e563357d8"
   },
   {
     "id": 230,
     "region_number": 2,
-    "name": "Kassita",
-    "region_name": "l'Oriental"
+    "name": "Selouane",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_6327fc0d-409e-4121-8079-ae24a7360be8"
   },
   {
     "id": 231,
     "region_number": 2,
-    "name": "Kerouna",
-    "region_name": "l'Oriental"
+    "name": "Sidi Boubker",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_637efb9b-5938-43e0-b18f-36d85b38b78b"
   },
   {
     "id": 232,
     "region_number": 2,
-    "name": "Laâtamna",
-    "region_name": "l'Oriental"
+    "name": "Sidi Slimane Echcharaa",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_123d7c2f-39bd-4dc4-85b8-1a1907fd65c4"
   },
   {
     "id": 233,
     "region_number": 2,
-    "name": "Madagh",
-    "region_name": "l'Oriental"
+    "name": "Talsint",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_874ad6ed-3111-4c13-8ecc-b51eb1a21b69"
   },
   {
     "id": 234,
     "region_number": 2,
-    "name": "Midar",
-    "region_name": "l'Oriental"
+    "name": "Taourirt",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_88599304-6046-4ccc-b402-d121cc86c103"
   },
   {
     "id": 235,
     "region_number": 2,
-    "name": "Nador",
-    "region_name": "l'Oriental"
+    "name": "Tendrara",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_a3bcb0d9-7ceb-4bc4-b9f1-bf0b43d5cd50"
   },
   {
     "id": 236,
     "region_number": 2,
-    "name": "Naima",
-    "region_name": "l'Oriental"
+    "name": "Tiztoutine",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_1438b9d3-f291-44aa-ab78-e6611ed7f23f"
   },
   {
     "id": 237,
     "region_number": 2,
-    "name": "Oued Heimer",
-    "region_name": "l'Oriental"
+    "name": "Touima",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_68a8a105-371c-42d9-8c7b-5d6ad9d0fa86"
   },
   {
     "id": 238,
     "region_number": 2,
-    "name": "Oujda",
-    "region_name": "l'Oriental"
+    "name": "Touissit",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_0ceddd6e-5d49-47e0-9c53-88d5fc5ef99c"
   },
   {
     "id": 239,
     "region_number": 2,
-    "name": "Ras El Ma",
-    "region_name": "l'Oriental"
+    "name": "Zaïo",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_9df179de-363c-4e36-bff7-85d499d929fc"
   },
   {
     "id": 240,
     "region_number": 2,
-    "name": "Saïdia",
-    "region_name": "l'Oriental"
+    "name": "Zeghanghane",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_64d69e21-6dcb-42cc-95d1-3537af966ec3"
   },
   {
     "id": 241,
-    "region_number": 2,
-    "name": "Selouane",
-    "region_name": "l'Oriental"
+    "region_number": 4,
+    "name": "Rabat",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_75250f1a-3f0c-4056-a0f3-9249afc3cf5a"
   },
   {
     "id": 242,
-    "region_number": 2,
-    "name": "Sidi Boubker",
-    "region_name": "l'Oriental"
+    "region_number": 4,
+    "name": "Salé",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_ad6b7c96-2f96-4e74-a51f-c6fbeaf9f753"
   },
   {
     "id": 243,
-    "region_number": 2,
-    "name": "Sidi Slimane Echcharaa",
-    "region_name": "l'Oriental"
+    "region_number": 4,
+    "name": "Ain El Aouda",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_c3f15b03-90bd-4807-9621-4a7c92001df4"
   },
   {
     "id": 244,
-    "region_number": 2,
-    "name": "Talsint",
-    "region_name": "l'Oriental"
+    "region_number": 4,
+    "name": "Harhoura",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_d4f23f89-b7a0-434c-9c9a-a109d2bafa4a"
   },
   {
     "id": 245,
-    "region_number": 2,
-    "name": "Taourirt",
-    "region_name": "l'Oriental"
+    "region_number": 4,
+    "name": "Khémisset",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_7e055807-0ee4-4db9-b99b-85516e03456a"
   },
   {
     "id": 246,
-    "region_number": 2,
-    "name": "Tendrara",
-    "region_name": "l'Oriental"
+    "region_number": 4,
+    "name": "Oulmès",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_b0137a59-23fb-4d42-9958-69f3e4276948"
   },
   {
     "id": 247,
-    "region_number": 2,
-    "name": "Tiztoutine",
-    "region_name": "l'Oriental"
+    "region_number": 4,
+    "name": "Rommani",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_f893d2b1-81c2-4c2d-beaf-4b1f7aa11ced"
   },
   {
     "id": 248,
-    "region_number": 2,
-    "name": "Touima",
-    "region_name": "l'Oriental"
+    "region_number": 4,
+    "name": "Sidi Allal El Bahraoui",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_768d46d6-47a1-45ca-9f2a-54c1619119ec"
   },
   {
     "id": 249,
-    "region_number": 2,
-    "name": "Touissit",
-    "region_name": "l'Oriental"
+    "region_number": 4,
+    "name": "Sidi Bouknadel",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_932c4f2a-da58-4d28-9130-ec614ffce514"
   },
   {
     "id": 250,
-    "region_number": 2,
-    "name": "Zaïo",
-    "region_name": "l'Oriental"
+    "region_number": 4,
+    "name": "Skhirate",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_b4ebb385-2a09-43e3-b817-30817abb2e3b"
   },
   {
     "id": 251,
-    "region_number": 2,
-    "name": "Zeghanghane",
-    "region_name": "l'Oriental"
+    "region_number": 4,
+    "name": "Tamesna",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_a0653d9a-0a0a-4fc5-9dde-8a3c71346700"
   },
   {
     "id": 252,
     "region_number": 4,
-    "name": "Rabat",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Témara",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_eca15d65-ae7d-42b2-a14f-9fef9c823575"
   },
   {
     "id": 253,
     "region_number": 4,
-    "name": "Salé",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Tiddas",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_96b31d10-07b0-44b7-b0c0-1ac90f7e4f1f"
   },
   {
     "id": 254,
     "region_number": 4,
-    "name": "Ain El Aouda",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Tiflet",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_6446a4b6-efe6-436f-832e-262f670112b3"
   },
   {
     "id": 255,
     "region_number": 4,
-    "name": "Harhoura",
-    "region_name": "Rabat-Salé-Kénitra"
+    "name": "Touarga",
+    "region_name": "Rabat-Salé-Kénitra",
+    "uniq_id": "city_d34c9e69-1a1f-4e19-b1d1-965010f6b61a"
   },
   {
     "id": 256,
-    "region_number": 4,
-    "name": "Khémisset",
-    "region_name": "Rabat-Salé-Kénitra"
+    "region_number": 9,
+    "name": "Agadir",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_82ee63bf-fcde-40b1-ba7e-4ccb63b230de"
   },
   {
     "id": 257,
-    "region_number": 4,
-    "name": "Oulmès",
-    "region_name": "Rabat-Salé-Kénitra"
+    "region_number": 8,
+    "name": "Agdz",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_e74b9009-66ee-4cae-8312-82ee2d9541dd"
   },
   {
     "id": 258,
-    "region_number": 4,
-    "name": "Rommani",
-    "region_name": "Rabat-Salé-Kénitra"
+    "region_number": 9,
+    "name": "Agni Izimmer",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_d622c483-f0e0-4715-9f4a-ed7547145462"
   },
   {
     "id": 259,
-    "region_number": 4,
-    "name": "Sidi Allal El Bahraoui",
-    "region_name": "Rabat-Salé-Kénitra"
+    "region_number": 9,
+    "name": "Aït Melloul",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_771605f4-fff0-4e49-8f95-2c7d7eef32c5"
   },
   {
     "id": 260,
-    "region_number": 4,
-    "name": "Sidi Bouknadel",
-    "region_name": "Rabat-Salé-Kénitra"
+    "region_number": 8,
+    "name": "Alnif",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_40a2265c-7a64-4639-9b4c-71b3de0d9fe7"
   },
   {
     "id": 261,
-    "region_number": 4,
-    "name": "Skhirate",
-    "region_name": "Rabat-Salé-Kénitra"
+    "region_number": 9,
+    "name": "Anzi",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_52f1daba-2d0d-4038-84c1-cec8460aee39"
   },
   {
     "id": 262,
-    "region_number": 4,
-    "name": "Tamesna",
-    "region_name": "Rabat-Salé-Kénitra"
+    "region_number": 9,
+    "name": "Aoulouz",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_42d35193-4cbe-4a2f-a66b-c4757adfcbdb"
   },
   {
     "id": 263,
-    "region_number": 4,
-    "name": "Témara",
-    "region_name": "Rabat-Salé-Kénitra"
+    "region_number": 9,
+    "name": "Aourir",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_c6c1920c-33bf-4a75-9b1b-c8b49cfd4902"
   },
   {
     "id": 264,
-    "region_number": 4,
-    "name": "Tiddas",
-    "region_name": "Rabat-Salé-Kénitra"
+    "region_number": 9,
+    "name": "Arazane",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_962cdd02-4e18-4196-b75c-3b55a3761796"
   },
   {
     "id": 265,
-    "region_number": 4,
-    "name": "Tiflet",
-    "region_name": "Rabat-Salé-Kénitra"
+    "region_number": 9,
+    "name": "Aït Baha",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_7d888aab-6e66-4288-9bac-15f0d84fef93"
   },
   {
     "id": 266,
-    "region_number": 4,
-    "name": "Touarga",
-    "region_name": "Rabat-Salé-Kénitra"
+    "region_number": 9,
+    "name": "Aït Iaâza",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_a0b3c92f-af24-46c9-8a20-90220cea0b79"
   },
   {
     "id": 267,
-    "region_number": 9,
-    "name": "Agadir",
-    "region_name": "Souss-Massa"
+    "region_number": 8,
+    "name": "Aït Yalla",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_e3f0d6a1-4d0f-483c-8522-22d59401a5c6"
   },
   {
     "id": 268,
-    "region_number": 8,
-    "name": "Agdz",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 9,
+    "name": "Ben Sergao",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_d8e96503-4af8-4acd-ab65-656d6c188493"
   },
   {
     "id": 269,
     "region_number": 9,
-    "name": "Agni Izimmer",
-    "region_name": "Souss-Massa"
+    "name": "Biougra",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_499b29a2-76e6-4322-8adc-7ed763e98d42"
   },
   {
     "id": 270,
-    "region_number": 9,
-    "name": "Aït Melloul",
-    "region_name": "Souss-Massa"
+    "region_number": 8,
+    "name": "Boumalne-Dadès",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_6414dfae-8d4c-41e2-ab2e-906c7866f6bb"
   },
   {
     "id": 271,
-    "region_number": 8,
-    "name": "Alnif",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 9,
+    "name": "Dcheira El Jihadia",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_2c45c0bc-0b21-46fd-9ea2-be4ddff79bff"
   },
   {
     "id": 272,
     "region_number": 9,
-    "name": "Anzi",
-    "region_name": "Souss-Massa"
+    "name": "Drargua",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_39ada567-26fd-48b0-90ad-a904d22db61b"
   },
   {
     "id": 273,
     "region_number": 9,
-    "name": "Aoulouz",
-    "region_name": "Souss-Massa"
+    "name": "El Guerdane",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_d4dd1581-1272-4c61-89e0-b2ca6c983b1c"
   },
   {
     "id": 274,
-    "region_number": 9,
-    "name": "Aourir",
-    "region_name": "Souss-Massa"
+    "region_number": 8,
+    "name": "Harte Lyamine",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_0c989c7a-5062-402a-a064-0c13b5929dd5"
   },
   {
     "id": 275,
     "region_number": 9,
-    "name": "Arazane",
-    "region_name": "Souss-Massa"
+    "name": "Ida Ougnidif",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_b153b7b0-0edc-4245-b6bd-e43d22087a07"
   },
   {
     "id": 276,
-    "region_number": 9,
-    "name": "Aït Baha",
-    "region_name": "Souss-Massa"
+    "region_number": 8,
+    "name": "Ifri",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_eb3cd0f2-1117-483c-9f03-0adcc412e6c1"
   },
   {
     "id": 277,
     "region_number": 9,
-    "name": "Aït Iaâza",
-    "region_name": "Souss-Massa"
+    "name": "Igdamen",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_e9a36492-4a7d-4138-a29b-6ef51b7b2e7e"
   },
   {
     "id": 278,
     "region_number": 8,
-    "name": "Aït Yalla",
-    "region_name": "Drâa-Tafilalet"
+    "name": "Ighil n'Oumgoun",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_574e0316-976f-457b-a488-8a1505fb274a"
   },
   {
     "id": 279,
-    "region_number": 9,
-    "name": "Ben Sergao",
-    "region_name": "Souss-Massa"
+    "region_number": 8,
+    "name": "Imassine",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_b79b26f6-5f40-4887-bf78-0c0a0f13e694"
   },
   {
     "id": 280,
     "region_number": 9,
-    "name": "Biougra",
-    "region_name": "Souss-Massa"
+    "name": "Inezgane",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_606bed89-f144-4d03-b6f4-3c25734c901d"
   },
   {
     "id": 281,
-    "region_number": 8,
-    "name": "Boumalne-Dadès",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 9,
+    "name": "Irherm",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_af20cd4d-fdf5-4f0f-808c-db0b631a8a91"
   },
   {
     "id": 282,
-    "region_number": 9,
-    "name": "Dcheira El Jihadia",
-    "region_name": "Souss-Massa"
+    "region_number": 8,
+    "name": "Kelaat-M'Gouna",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_6239ffc2-e47b-4648-86da-989174e13678"
   },
   {
     "id": 283,
     "region_number": 9,
-    "name": "Drargua",
-    "region_name": "Souss-Massa"
+    "name": "Lakhsas",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_fef28b50-04be-4b29-8905-8db3265d4608"
   },
   {
     "id": 284,
     "region_number": 9,
-    "name": "El Guerdane",
-    "region_name": "Souss-Massa"
+    "name": "Lakhsass",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_d45bb9f9-6352-40e3-8e8d-0b24f11f46cf"
   },
   {
     "id": 285,
-    "region_number": 8,
-    "name": "Harte Lyamine",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 9,
+    "name": "Lqliâa",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_63e1e119-38d6-45d7-9717-5da94c42ffab"
   },
   {
     "id": 286,
-    "region_number": 9,
-    "name": "Ida Ougnidif",
-    "region_name": "Souss-Massa"
+    "region_number": 8,
+    "name": "M'semrir",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_ab5664e2-036c-475f-af2a-75f494232621"
   },
   {
     "id": 287,
-    "region_number": 8,
-    "name": "Ifri",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 9,
+    "name": "Massa (Maroc)",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_d51d4b4c-e7b6-4f22-b79c-b3437009f773"
   },
   {
     "id": 288,
     "region_number": 9,
-    "name": "Igdamen",
-    "region_name": "Souss-Massa"
+    "name": "Megousse",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_0d9bd745-68d6-446a-9a3e-992961539398"
   },
   {
     "id": 289,
     "region_number": 8,
-    "name": "Ighil n'Oumgoun",
-    "region_name": "Drâa-Tafilalet"
+    "name": "Ouarzazate",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_256ca77e-b527-4f2e-9bfa-a09c66a9b8e6"
   },
   {
     "id": 290,
-    "region_number": 8,
-    "name": "Imassine",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 9,
+    "name": "Oulad Berhil",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_81b45e50-c048-4647-b7f5-e0f987da64e6"
   },
   {
     "id": 291,
     "region_number": 9,
-    "name": "Inezgane",
-    "region_name": "Souss-Massa"
+    "name": "Oulad Teïma",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_3c723d37-e67d-48cc-9a8b-01c5e24fee85"
   },
   {
     "id": 292,
-    "region_number": 9,
-    "name": "Irherm",
-    "region_name": "Souss-Massa"
+    "region_number": 8,
+    "name": "Sarghine",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_2465678e-a701-411e-bd5a-f81cb671cfc8"
   },
   {
     "id": 293,
-    "region_number": 8,
-    "name": "Kelaat-M'Gouna",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 10,
+    "name": "Sidi Ifni",
+    "region_name": "Guelmim-Oued Noun",
+    "uniq_id": "city_52ad6929-997d-4ee5-bb39-67ef1f5ce9a2"
   },
   {
     "id": 294,
-    "region_number": 9,
-    "name": "Lakhsas",
-    "region_name": "Souss-Massa"
+    "region_number": 8,
+    "name": "Skoura",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_1b419126-8b0c-46f3-9213-31841beb4de5"
   },
   {
     "id": 295,
-    "region_number": 9,
-    "name": "Lakhsass",
-    "region_name": "Souss-Massa"
+    "region_number": 8,
+    "name": "Tabounte",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_0df98c25-6d9e-491c-86b1-34a73f5b2b7c"
   },
   {
     "id": 296,
     "region_number": 9,
-    "name": "Lqliâa",
-    "region_name": "Souss-Massa"
+    "name": "Tafraout",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_d639b936-256f-43bd-b1e9-0af22723eefb"
   },
   {
     "id": 297,
-    "region_number": 8,
-    "name": "M'semrir",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 1,
+    "name": "Taghzout",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_d54a5e56-c4d1-4708-a6c6-de818cced030"
   },
   {
     "id": 298,
     "region_number": 9,
-    "name": "Massa (Maroc)",
-    "region_name": "Souss-Massa"
+    "name": "Tagzen",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_954442a4-4fbc-4129-a17c-17e0883157d0"
   },
   {
     "id": 299,
     "region_number": 9,
-    "name": "Megousse",
-    "region_name": "Souss-Massa"
+    "name": "Taliouine",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_7df33b38-93d4-4251-bcd5-9f10a98d139f"
   },
   {
     "id": 300,
     "region_number": 8,
-    "name": "Ouarzazate",
-    "region_name": "Drâa-Tafilalet"
+    "name": "Tamegroute",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_309a76cd-713a-4340-bbd8-2967417a25df"
   },
   {
     "id": 301,
     "region_number": 9,
-    "name": "Oulad Berhil",
-    "region_name": "Souss-Massa"
+    "name": "Tamraght",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_cb92b8c5-8e3f-439e-82dd-67dcc6a47c23"
   },
   {
     "id": 302,
-    "region_number": 9,
-    "name": "Oulad Teïma",
-    "region_name": "Souss-Massa"
+    "region_number": 8,
+    "name": "Tanoumrite Nkob Zagora",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_c7ede118-8b42-4d2a-b279-cedb3d7dc180"
   },
   {
     "id": 303,
     "region_number": 8,
-    "name": "Sarghine",
-    "region_name": "Drâa-Tafilalet"
+    "name": "Taourirt ait zaghar",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_628065e3-a738-4695-8b84-a2a08ce74a0c"
   },
   {
     "id": 304,
-    "region_number": 10,
-    "name": "Sidi Ifni",
-    "region_name": "Guelmim-Oued Noun"
+    "region_number": 9,
+    "name": "Taroudannt",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_8cbb66de-dc9e-424f-bbe4-92a440a052b4"
   },
   {
     "id": 305,
-    "region_number": 8,
-    "name": "Skoura",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 9,
+    "name": "Temsia",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_9eda9abb-079f-4576-b418-2a6be166ca23"
   },
   {
     "id": 306,
-    "region_number": 8,
-    "name": "Tabounte",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 9,
+    "name": "Tifnit",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_f439663d-074c-4e39-a454-3f70680d0f47"
   },
   {
     "id": 307,
     "region_number": 9,
-    "name": "Tafraout",
-    "region_name": "Souss-Massa"
+    "name": "Tisgdal",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_0bfb1352-78ee-47ef-9230-9698d9a839f7"
   },
   {
     "id": 308,
-    "region_number": 1,
-    "name": "Taghzout",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 9,
+    "name": "Tiznit",
+    "region_name": "Souss-Massa",
+    "uniq_id": "city_f2a3b011-41e9-473a-8b16-b413f6b28a2f"
   },
   {
     "id": 309,
-    "region_number": 9,
-    "name": "Tagzen",
-    "region_name": "Souss-Massa"
+    "region_number": 8,
+    "name": "Toundoute",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_81c72048-85b0-4d30-b706-17e0215e3a3c"
   },
   {
     "id": 310,
-    "region_number": 9,
-    "name": "Taliouine",
-    "region_name": "Souss-Massa"
+    "region_number": 8,
+    "name": "Zagora",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_78a4e603-5729-433e-a717-fcdd5b351c6e"
   },
   {
     "id": 311,
-    "region_number": 8,
-    "name": "Tamegroute",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 5,
+    "name": "Afourar",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_b55f54af-5e55-46d3-9b16-c965b2114499"
   },
   {
     "id": 312,
-    "region_number": 9,
-    "name": "Tamraght",
-    "region_name": "Souss-Massa"
+    "region_number": 5,
+    "name": "Aghbala",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_4377f788-a53d-4421-82e2-213dcc69f567"
   },
   {
     "id": 313,
-    "region_number": 8,
-    "name": "Tanoumrite Nkob Zagora",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 5,
+    "name": "Azilal",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_c5037c8a-ef6c-4038-859e-7ee0e3578f03"
   },
   {
     "id": 314,
-    "region_number": 8,
-    "name": "Taourirt ait zaghar",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 5,
+    "name": "Aït Majden",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_aeb496b6-e5ec-4ce9-b685-67da2058c226"
   },
   {
     "id": 315,
-    "region_number": 9,
-    "name": "Taroudannt",
-    "region_name": "Souss-Massa"
+    "region_number": 5,
+    "name": "Beni Ayat",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_db649643-9216-4571-af81-bf2b6f2505a3"
   },
   {
     "id": 316,
-    "region_number": 9,
-    "name": "Temsia",
-    "region_name": "Souss-Massa"
+    "region_number": 5,
+    "name": "Béni Mellal",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_e946ab21-523d-471f-99a5-6a2fc019513c"
   },
   {
     "id": 317,
-    "region_number": 9,
-    "name": "Tifnit",
-    "region_name": "Souss-Massa"
+    "region_number": 5,
+    "name": "Bin elouidane",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_9d17e1e0-d79c-4e9a-aa48-13584e2f1ed9"
   },
   {
     "id": 318,
-    "region_number": 9,
-    "name": "Tisgdal",
-    "region_name": "Souss-Massa"
+    "region_number": 5,
+    "name": "Bradia",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_ba7e2c87-afef-4558-9956-9d92ad4429ad"
   },
   {
     "id": 319,
-    "region_number": 9,
-    "name": "Tiznit",
-    "region_name": "Souss-Massa"
+    "region_number": 5,
+    "name": "Bzou",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_3117fe2f-e15e-4810-992f-cd4f26efc7d8"
   },
   {
     "id": 320,
-    "region_number": 8,
-    "name": "Toundoute",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 5,
+    "name": "Dar Oulad Zidouh",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_283c3fd9-578b-4ab8-8eed-7ef54c7e4ba9"
   },
   {
     "id": 321,
-    "region_number": 8,
-    "name": "Zagora",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 5,
+    "name": "Demnate",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_7ba13525-ad5d-46c8-920a-ef6cedc94dc1"
   },
   {
     "id": 322,
-    "region_number": 5,
-    "name": "Afourar",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 8,
+    "name": "Dra'a",
+    "region_name": "Drâa-Tafilalet",
+    "uniq_id": "city_99c08121-6d41-406a-8b69-62d35714342f"
   },
   {
     "id": 323,
     "region_number": 5,
-    "name": "Aghbala",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "El Ksiba",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_f0a95b25-331f-47eb-b198-650bc93e6175"
   },
   {
     "id": 324,
     "region_number": 5,
-    "name": "Azilal",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Foum Jamaa",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_fd4b3f5d-5d34-4f35-b9f5-1a277eefa781"
   },
   {
     "id": 325,
     "region_number": 5,
-    "name": "Aït Majden",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Fquih Ben Salah",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_b0a28adc-4693-4259-a8ec-527229455a37"
   },
   {
     "id": 326,
     "region_number": 5,
-    "name": "Beni Ayat",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Kasba Tadla",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_2e785d87-76f1-4b07-9443-12d3f3c44f78"
   },
   {
     "id": 327,
     "region_number": 5,
-    "name": "Béni Mellal",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Ouaouizeght",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_1f3d80da-d0ca-4e08-9213-8b20924e0fce"
   },
   {
     "id": 328,
     "region_number": 5,
-    "name": "Bin elouidane",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Oulad Ayad",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_e162dba4-b78b-4f17-a581-3bef05e787e5"
   },
   {
     "id": 329,
     "region_number": 5,
-    "name": "Bradia",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Oulad M'Barek",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_31618fc3-015a-409d-a4bb-c1aa3f41edca"
   },
   {
     "id": 330,
     "region_number": 5,
-    "name": "Bzou",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Oulad Yaich",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_720bf10b-bdba-479a-82d7-113c1d50ae72"
   },
   {
     "id": 331,
     "region_number": 5,
-    "name": "Dar Oulad Zidouh",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Sidi Jaber",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_d4232a99-f9b2-403b-82f5-ab2353a8e315"
   },
   {
     "id": 332,
     "region_number": 5,
-    "name": "Demnate",
-    "region_name": "Béni Mellal-Khénifra"
+    "name": "Souk Sebt Oulad Nemma",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_112e333f-4dcd-497d-953b-b37cffda37cd"
   },
   {
     "id": 333,
-    "region_number": 8,
-    "name": "Dra'a",
-    "region_name": "Drâa-Tafilalet"
+    "region_number": 5,
+    "name": "Zaouïat Cheikh",
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_f110901e-f9c5-4f6c-8ecc-937542969951"
   },
   {
     "id": 334,
-    "region_number": 5,
-    "name": "El Ksiba",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 1,
+    "name": "Tanger‎",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_8a12d5bf-3a56-42b7-b19e-20438cfdbd5c"
   },
   {
     "id": 335,
-    "region_number": 5,
-    "name": "Foum Jamaa",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 1,
+    "name": "Tétouan‎",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_e426bc06-8b14-4e0a-9d36-e2602eec103b"
   },
   {
     "id": 336,
-    "region_number": 5,
-    "name": "Fquih Ben Salah",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 1,
+    "name": "Akchour",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_84759f82-1e7b-4291-aba4-84a7a3bff549"
   },
   {
     "id": 337,
-    "region_number": 5,
-    "name": "Kasba Tadla",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 1,
+    "name": "Assilah",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_d5b6c507-d07e-4481-b575-1c7a4b57c92d"
   },
   {
     "id": 338,
-    "region_number": 5,
-    "name": "Ouaouizeght",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 1,
+    "name": "Bab Berred",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_801f89b1-2953-4fc8-9542-153aee74493b"
   },
   {
     "id": 339,
-    "region_number": 5,
-    "name": "Oulad Ayad",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 1,
+    "name": "Bab Taza",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_54bc5e72-dece-47a1-b6a5-c009af10c702"
   },
   {
     "id": 340,
-    "region_number": 5,
-    "name": "Oulad M'Barek",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 1,
+    "name": "Brikcha",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_fa2ad285-f449-4067-a7c2-491b96e8af3a"
   },
   {
     "id": 341,
-    "region_number": 5,
-    "name": "Oulad Yaich",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 1,
+    "name": "Chefchaouen",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_a369dd82-625a-4911-8475-716a6c1418f7"
   },
   {
     "id": 342,
-    "region_number": 5,
-    "name": "Sidi Jaber",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 1,
+    "name": "Dar Bni Karrich",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_90f4b34b-810f-4fb7-b0e3-8a04fc229d9d"
   },
   {
     "id": 343,
-    "region_number": 5,
-    "name": "Souk Sebt Oulad Nemma",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 1,
+    "name": "Dar Chaoui",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_9e6e9dec-bd1f-456a-b1cb-1de20fed38bc"
   },
   {
     "id": 344,
-    "region_number": 5,
-    "name": "Zaouïat Cheikh",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_number": 1,
+    "name": "Fnideq",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_0cbba391-1a74-42e3-abc4-accee6c2fe27"
   },
   {
     "id": 345,
     "region_number": 1,
-    "name": "Tanger‎",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Gueznaia",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_8987add1-4176-4c49-9a95-340044ad1664"
   },
   {
     "id": 346,
     "region_number": 1,
-    "name": "Tétouan‎",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Jebha",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_e0e5f380-67a0-4394-8bbc-d42bd919774e"
   },
   {
     "id": 347,
-    "region_number": 1,
-    "name": "Akchour",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 3,
+    "name": "Karia",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_ca1de112-300d-44c1-aa9a-08966354d6d0"
   },
   {
     "id": 348,
     "region_number": 1,
-    "name": "Assilah",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Khémis Sahel",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_d46c2c2e-bdf1-4934-8d98-47b8b5922601"
   },
   {
     "id": 349,
     "region_number": 1,
-    "name": "Bab Berred",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Ksar El Kébir",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_f94a6b96-8a2f-4aa4-b59c-62f61445572a"
   },
   {
     "id": 350,
     "region_number": 1,
-    "name": "Bab Taza",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Larache",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_fa209291-cab9-44ed-b052-108926e03540"
   },
   {
     "id": 351,
     "region_number": 1,
-    "name": "Brikcha",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "M'diq",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_716e8c2d-fa6c-4376-b875-02f13f95ad13"
   },
   {
     "id": 352,
     "region_number": 1,
-    "name": "Chefchaouen",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Martil",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_f2c558f1-b849-4068-8148-992d03c174e1"
   },
   {
     "id": 353,
     "region_number": 1,
-    "name": "Dar Bni Karrich",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Moqrisset",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_9ce64069-386d-45c2-ac59-47e92c7d5c73"
   },
   {
     "id": 354,
     "region_number": 1,
-    "name": "Dar Chaoui",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Oued Laou",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_d8cabb6b-050e-46ed-ba32-bb83e88a093c"
   },
   {
     "id": 355,
     "region_number": 1,
-    "name": "Fnideq",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Oued Rmel",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_cd32e7ac-67ec-4b6e-b110-4741403c5c0f"
   },
   {
     "id": 356,
     "region_number": 1,
-    "name": "Gueznaia",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Ouazzane",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_64a23cb4-175a-43ee-96f1-21633076dcaf"
   },
   {
     "id": 357,
     "region_number": 1,
-    "name": "Jebha",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Point Cires",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_db48f64e-a0d2-4a73-b8f9-6eb251e2d611"
   },
   {
     "id": 358,
-    "region_number": 3,
-    "name": "Karia",
-    "region_name": "Fès-Meknès"
+    "region_number": 1,
+    "name": "Sidi Lyamani",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_137c33f3-047b-4c91-8fb4-a6ae56b7577d"
   },
   {
     "id": 359,
     "region_number": 1,
-    "name": "Khémis Sahel",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Sidi Mohamed ben Abdallah el-Raisuni",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_9455bcb9-5145-4d0b-bfca-69cf6e5e53b3"
   },
   {
     "id": 360,
     "region_number": 1,
-    "name": "Ksar El Kébir",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Zinat",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_28818537-2887-4e49-b4b1-f01f2892ecf8"
   },
   {
     "id": 361,
     "region_number": 1,
-    "name": "Larache",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Ajdir‎",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_04a4f3a0-7a56-4b94-892c-c4b272ba80e8"
   },
   {
     "id": 362,
-    "region_number": 1,
-    "name": "M'diq",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 3,
+    "name": "Aknoul‎",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_c28f0e23-e980-46f7-980d-15e469ec6104"
   },
   {
     "id": 363,
     "region_number": 1,
-    "name": "Martil",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Al Hoceïma‎",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_911ab006-0f8b-48a6-8bbe-7f9696009db7"
   },
   {
     "id": 364,
     "region_number": 1,
-    "name": "Moqrisset",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Aït Hichem‎",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_0b8c7b77-ec24-4a9d-ae09-576e060e87c1"
   },
   {
     "id": 365,
     "region_number": 1,
-    "name": "Oued Laou",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Bni Bouayach‎",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_564e02ed-5587-4b5c-a6cf-e7356da77e60"
   },
   {
     "id": 366,
     "region_number": 1,
-    "name": "Oued Rmel",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Bni Hadifa‎",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_8b092f00-cc38-4c67-8440-9546ee6fd158"
   },
   {
     "id": 367,
-    "region_number": 1,
-    "name": "Ouazzane",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 3,
+    "name": "Ghafsai‎",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_bbecef37-a93c-45a1-8dab-412dba552829"
   },
   {
     "id": 368,
-    "region_number": 1,
-    "name": "Point Cires",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 2,
+    "name": "Guercif‎",
+    "region_name": "l'Oriental",
+    "uniq_id": "city_2a1e1513-83c0-411d-9bda-4adc28dbe348"
   },
   {
     "id": 369,
     "region_number": 1,
-    "name": "Sidi Lyamani",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Imzouren‎",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_87656746-0540-47ed-87d6-817e6d83686e"
   },
   {
     "id": 370,
     "region_number": 1,
-    "name": "Sidi Mohamed ben Abdallah el-Raisuni",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Inahnahen‎",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_c30fbd50-7b9b-4e92-b473-5efa9e0ed1e3"
   },
   {
     "id": 371,
     "region_number": 1,
-    "name": "Zinat",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Issaguen (Ketama)‎",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_8dc73e32-1101-482c-b53a-e4b7ee5a1f0c"
   },
   {
     "id": 372,
-    "region_number": 1,
-    "name": "Ajdir‎",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 6,
+    "name": "Karia (El Jadida)‎",
+    "region_name": "Casablanca-Settat",
+    "uniq_id": "city_5cafef1a-cf23-47d4-91ab-b8ebbd1bd63b"
   },
   {
     "id": 373,
     "region_number": 3,
-    "name": "Aknoul‎",
-    "region_name": "Fès-Meknès"
+    "name": "Karia Ba Mohamed‎",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_8a0f18cb-89df-49e2-a581-f0695c2fa95e"
   },
   {
     "id": 374,
-    "region_number": 1,
-    "name": "Al Hoceïma‎",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 3,
+    "name": "Oued Amlil‎",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_3cfee2ae-2b91-48f0-aa12-e8bb90fc6cef"
   },
   {
     "id": 375,
-    "region_number": 1,
-    "name": "Aït Hichem‎",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 3,
+    "name": "Oulad Zbair‎",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_0222e7a2-aa6f-4502-b158-65d7abb65255"
   },
   {
     "id": 376,
-    "region_number": 1,
-    "name": "Bni Bouayach‎",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 3,
+    "name": "Tahla‎",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_2e7aa08c-e714-45f6-bae3-55b36527c292"
   },
   {
     "id": 377,
     "region_number": 1,
-    "name": "Bni Hadifa‎",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Tala Tazegwaght‎",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_f2947e4b-f26f-41a9-bf1a-0f89dc451767"
   },
   {
     "id": 378,
-    "region_number": 3,
-    "name": "Ghafsai‎",
-    "region_name": "Fès-Meknès"
+    "region_number": 1,
+    "name": "Tamassint‎",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_6c053435-85d5-49ab-97f8-37db1b064ce1"
   },
   {
     "id": 379,
-    "region_number": 2,
-    "name": "Guercif‎",
-    "region_name": "l'Oriental"
+    "region_number": 3,
+    "name": "Taounate‎",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_34b6fc29-e36a-4455-80bf-8d34abc49170"
   },
   {
     "id": 380,
     "region_number": 1,
-    "name": "Imzouren‎",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "name": "Targuist‎",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_1307ab89-9eb7-4405-9d9b-018173b7225b"
   },
   {
     "id": 381,
-    "region_number": 1,
-    "name": "Inahnahen‎",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 3,
+    "name": "Taza‎",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_45943cd1-c7fe-4273-911e-96af775fa27d"
   },
   {
     "id": 382,
-    "region_number": 1,
-    "name": "Issaguen (Ketama)‎",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 3,
+    "name": "Taïnaste‎",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_83f96c82-59f7-43b6-9e66-e081637de6bc"
   },
   {
     "id": 383,
-    "region_number": 6,
-    "name": "Karia (El Jadida)‎",
-    "region_name": "Casablanca-Settat"
+    "region_number": 3,
+    "name": "Thar Es-Souk‎",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_ca994c36-b702-4e3d-abb3-6bfa1f6531f8"
   },
   {
     "id": 384,
     "region_number": 3,
-    "name": "Karia Ba Mohamed‎",
-    "region_name": "Fès-Meknès"
+    "name": "Tissa‎",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_8f8a1a43-6469-47f0-9c0f-2916e323f229"
   },
   {
     "id": 385,
     "region_number": 3,
-    "name": "Oued Amlil‎",
-    "region_name": "Fès-Meknès"
+    "name": "Tizi Ouasli‎",
+    "region_name": "Fès-Meknès",
+    "uniq_id": "city_599b85c7-9a29-40f8-8e83-654ec6a15dda"
   },
   {
     "id": 386,
-    "region_number": 3,
-    "name": "Oulad Zbair‎",
-    "region_name": "Fès-Meknès"
+    "region_number": 11,
+    "name": "Laayoune‎",
+    "region_name": "Laâyoune-Sakia El Hamra",
+    "uniq_id": "city_ef9f0b46-6cf3-411b-943c-f5a7b53d7897"
   },
   {
     "id": 387,
-    "region_number": 3,
-    "name": "Tahla‎",
-    "region_name": "Fès-Meknès"
+    "region_number": 11,
+    "name": "El Marsa‎",
+    "region_name": "Laâyoune-Sakia El Hamra",
+    "uniq_id": "city_196305c9-1b42-4f73-85c9-a17b0fa95376"
   },
   {
     "id": 388,
-    "region_number": 1,
-    "name": "Tala Tazegwaght‎",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 11,
+    "name": "Tarfaya‎",
+    "region_name": "Laâyoune-Sakia El Hamra",
+    "uniq_id": "city_d14b2c36-9048-4ec7-8da0-d08cc8f62ca6"
   },
   {
     "id": 389,
-    "region_number": 1,
-    "name": "Tamassint‎",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 11,
+    "name": "Boujdour‎",
+    "region_name": "Laâyoune-Sakia El Hamra",
+    "uniq_id": "city_0be9ed1d-f98f-4b05-9e28-19a28b20e501"
   },
   {
     "id": 390,
-    "region_number": 3,
-    "name": "Taounate‎",
-    "region_name": "Fès-Meknès"
+    "region_number": 12,
+    "name": "Awsard",
+    "region_name": "Dakhla-Oued Ed Dahab",
+    "uniq_id": "city_a517c562-2501-41a0-a020-8b58de5c1e52"
   },
   {
     "id": 391,
-    "region_number": 1,
-    "name": "Targuist‎",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
+    "region_number": 12,
+    "name": "Oued-Eddahab",
+    "region_name": "Dakhla-Oued Ed Dahab",
+    "uniq_id": "city_de47ad35-255f-4524-9ff9-2479cdf096c1"
   },
   {
     "id": 392,
-    "region_number": 3,
-    "name": "Taza‎",
-    "region_name": "Fès-Meknès"
+    "region_number": 1,
+    "name": "Stehat",
+    "region_name": "Tanger-Tétouan-Al Hoceïma",
+    "uniq_id": "city_80191f93-290f-4722-a9c9-b2ad74db9d41"
   },
   {
     "id": 393,
-    "region_number": 3,
-    "name": "Taïnaste‎",
-    "region_name": "Fès-Meknès"
-  },
-  {
-    "id": 394,
-    "region_number": 3,
-    "name": "Thar Es-Souk‎",
-    "region_name": "Fès-Meknès"
-  },
-  {
-    "id": 395,
-    "region_number": 3,
-    "name": "Tissa‎",
-    "region_name": "Fès-Meknès"
-  },
-  {
-    "id": 396,
-    "region_number": 3,
-    "name": "Tizi Ouasli‎",
-    "region_name": "Fès-Meknès"
-  },
-  {
-    "id": 397,
-    "region_number": 11,
-    "name": "Laayoune‎",
-    "region_name": "Laâyoune-Sakia El Hamra"
-  },
-  {
-    "id": 398,
-    "region_number": 11,
-    "name": "El Marsa‎",
-    "region_name": "Laâyoune-Sakia El Hamra"
-  },
-  {
-    "id": 399,
-    "region_number": 11,
-    "name": "Tarfaya‎",
-    "region_name": "Laâyoune-Sakia El Hamra"
-  },
-  {
-    "id": 400,
-    "region_number": 11,
-    "name": "Boujdour‎",
-    "region_name": "Laâyoune-Sakia El Hamra"
-  },
-  {
-    "id": 401,
-    "region_number": 12,
-    "name": "Awsard",
-    "region_name": "Dakhla-Oued Ed Dahab"
-  },
-  {
-    "id": 402,
-    "region_number": 12,
-    "name": "Oued-Eddahab",
-    "region_name": "Dakhla-Oued Ed Dahab"
-  },
-  {
-    "id": 403,
-    "region_number": 1,
-    "name": "Stehat",
-    "region_name": "Tanger-Tétouan-Al Hoceïma"
-  },
-  {
-    "id": 404,
     "region_number": 5,
     "name": "Aït Attab",
-    "region_name": "Béni Mellal-Khénifra"
+    "region_name": "Béni Mellal-Khénifra",
+    "uniq_id": "city_0e7b7231-aafa-4a57-b7cc-fa572a9a8ae5"
   }
 ]

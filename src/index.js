@@ -1,3 +1,7 @@
+// import dependencies
+const { uniqBy } = require("lodash");
+const { v4: uuid } = require("uuid");
+
 // import cities & regions from the json
 let { ville: citiesList } = require("./json/ville.json");
 let { region: regionsList } = require("./json/region.json");
@@ -25,6 +29,17 @@ new Promise((resolve) => {
     c.region_name = regionsList.filter((reg) => reg.id == c.region)[0].region;
     delete c.region;
   });
+
+  // make cities uniq
+  citiesList = uniqBy(citiesList, "name");
+
+  // re-define city id & add uniqID
+  citiesList.forEach((c, i) => {
+    c.id = i + 1;
+    c.uniq_id = "city_" + uuid();
+  });
+
+  // resolve
   resolve(citiesList);
 })
   .then((data) => {
