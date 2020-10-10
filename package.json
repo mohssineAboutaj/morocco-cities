@@ -4,8 +4,7 @@
   "description": "A list of all cities in morocco with it region",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index",
-    "npm-publish": "npm publish --access public"
+    "start": "node src/index"
   },
   "repository": {
     "type": "git",
