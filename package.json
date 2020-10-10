@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/index",
-    "publish": "npm publish --access public"
+    "npm-publish": "npm publish --access public"
   },
   "repository": {
     "type": "git",
