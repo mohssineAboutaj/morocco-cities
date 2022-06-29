@@ -3,8 +3,8 @@ const { uniqBy } = require("lodash");
 const { v4: uuid } = require("uuid");
 
 // import cities & regions from the json
-let { ville: citiesList } = require("./json/ville.json");
-let { region: regionsList } = require("./json/region.json");
+let citiesList = require("./json/ville.json");
+let regionsList = require("./json/region.json");
 
 // import some helpers
 const { writeJson } = require("./helpers");
@@ -64,7 +64,7 @@ new Promise((resolve) => {
     r.cities_list = [];
     citiesList.forEach((city) => {
       if (city.region_number === r.id) {
-        r.cities_list.push(city.name);
+        r.cities_list.push(city.name.replace("‎", ""));
       }
     });
 
